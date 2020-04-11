@@ -9,6 +9,7 @@ gem 'rails', '~> 5.2.0'
 # gem 'sqlite3'
 gem 'sqlite3', group: :development
 gem 'pg', '~>0.18', group: :production
+
 # Add Foundation to your Rails app 
 gem 'foundation-rails', '>=6.0'
 # Include jQuery js
